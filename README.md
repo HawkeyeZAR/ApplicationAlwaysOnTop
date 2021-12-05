@@ -10,7 +10,7 @@ You can change the the visibility(Opaque) of the selected window.
 
 ----------
 
-![This is an image](ChangeActiveWindowDisplayOptions/REC.png)
+![This is an image](ApplicationAlwaysOnTop/REC.png)
 
 
 ----------
