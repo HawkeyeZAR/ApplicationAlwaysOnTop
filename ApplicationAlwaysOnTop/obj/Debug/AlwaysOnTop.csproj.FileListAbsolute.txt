@@ -1,0 +1,10 @@
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\ChangeOpacity\ActiveProcessWindowUtils\bin\Debug\AlwaysOnTop.exe.config
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\ChangeOpacity\ActiveProcessWindowUtils\bin\Debug\AlwaysOnTop.exe
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\ChangeOpacity\ActiveProcessWindowUtils\bin\Debug\AlwaysOnTop.pdb
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\ChangeOpacity\ActiveProcessWindowUtils\obj\Debug\AlwaysOnTop.csproj.SuggestedBindingRedirects.cache
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\ChangeOpacity\ActiveProcessWindowUtils\obj\Debug\ActiveProcessWindowUtils.updateCEWindowForm.resources
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\ChangeOpacity\ActiveProcessWindowUtils\obj\Debug\AlwaysOnTop.Properties.Resources.resources
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\ChangeOpacity\ActiveProcessWindowUtils\obj\Debug\AlwaysOnTop.csproj.GenerateResource.cache
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\ChangeOpacity\ActiveProcessWindowUtils\obj\Debug\AlwaysOnTop.csproj.CoreCompileInputs.cache
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\ChangeOpacity\ActiveProcessWindowUtils\obj\Debug\AlwaysOnTop.exe
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\ChangeOpacity\ActiveProcessWindowUtils\obj\Debug\AlwaysOnTop.pdb
